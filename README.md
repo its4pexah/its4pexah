@@ -1,16 +1,13 @@
-## Hi there 👋
+# its4pexah — nice to meet you 👋
 
-<!--
-**its4pexah/its4pexah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Indonesia.
 
-Here are some ideas to get you started:
+- 🌍 Based in Indonesia
+- 👯 Open to collaborating on open-source projects
+- 🚀 Interested in open-source contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=its4pexah&hide_border=true&theme=github" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=its4pexah&hide_border=true&theme=synthwave" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Python-58a6ff?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-58a6ff?style=for-the-badge&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Go-58a6ff?style=for-the-badge&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Docker-58a6ff?style=for-the-badge&logoColor=white" alt="Docker" />
